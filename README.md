@@ -10,13 +10,13 @@ Each student creates one personal folder at the root of the repository, named us
 
 Repository
 │
-├── Aman_S123456
+├── Amanparteek_Singh_S123456
 │   ├── Week1
 │   ├── Week2
 │   ├── Week3
 │   └── ...
 │
-├── Firstname_S234567
+├── Name_S234567
 │   ├── Week1
 │   ├── Week2
 │   ├── Week3
