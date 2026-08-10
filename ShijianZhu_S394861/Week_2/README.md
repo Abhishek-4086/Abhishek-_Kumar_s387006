@@ -91,4 +91,3 @@ dotnet test ShijianZhu.Week2.slnx --configuration Release
 ```
 
 Expected result: 6 tests passed, 0 failed, with 0 build warnings and 0 errors.
-

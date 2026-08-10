@@ -49,4 +49,3 @@ The Movie Create page was also checked for:
 - Action, Drama and Horror Category options.
 
 Both checks passed.
-

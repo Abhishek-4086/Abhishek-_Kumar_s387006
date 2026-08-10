@@ -35,4 +35,3 @@ public class Movie
     [ValidateNever]
     public Category Category { get; set; } = null!;
 }
-

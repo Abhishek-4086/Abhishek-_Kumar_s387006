@@ -6,4 +6,3 @@ public enum MovieLanguage
     Japanese,
     Chinese
 }
-

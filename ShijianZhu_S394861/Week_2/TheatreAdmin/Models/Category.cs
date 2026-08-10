@@ -17,4 +17,3 @@ public class Category
 
     public ICollection<Movie> Movies { get; set; } = new List<Movie>();
 }
-
