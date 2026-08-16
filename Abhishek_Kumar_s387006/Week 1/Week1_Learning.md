@@ -40,6 +40,15 @@
 
 ------------------------------------------------------------------------
 
+## 4. Theoretical Learning
+
+- Covered the theoretical concepts related to the topics studied during Week 1.
+- Went through the relevant theory and documentation on W3Schools to strengthen my understanding.
+- Reviewed the concepts before moving on to practical implementation.
+
+------------------------------------------------------------------------
+
+
 ## Week 1 Summary
 
 During Week 1, I focused on getting familiar with Git/GitHub and the
